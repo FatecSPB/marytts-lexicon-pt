@@ -9,7 +9,7 @@ version '0.2.0-SNAPSHOT'
 description 'French lexicon for MaryTTS'
 
 ext {
-    url = 'https://github.com/marytts/marytts-lexicon-fr'
+    url = 'https://github.com/FatecSPB/marytts-lexicon-pt'
     isReleaseVersion = !version.endsWith("SNAPSHOT")
 }
 

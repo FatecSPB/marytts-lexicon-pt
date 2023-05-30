@@ -11,14 +11,12 @@
 	
 	<!-- Oral vowels -->
 	<vowel ph="a" vlng ="s" vheight ="3" vfront ="1" vrnd ="−"/>
-	<vowel ph="e" vlng ="s" vheight ="2" vfront ="1" vrnd ="−"/>
 	<vowel ph="E" vlng ="s" vheight ="2" vfront ="1" vrnd ="−"/>
+	<vowel ph="e" vlng ="s" vheight ="2" vfront ="1" vrnd ="−"/>
 	<vowel ph="i" vlng ="s" vheight ="1" vfront ="1" vrnd ="−"/>
 	<vowel ph="O" vlng ="s" vheight ="2" vfront ="3" vrnd ="+"/>
-	<vowel ph="U" vlng ="s" vheight ="2" vfront ="3" vrnd ="+"/>
 	<vowel ph="o" vlng ="s" vheight ="2" vfront ="3" vrnd ="+"/>
 	<vowel ph="u" vlng ="s" vheight ="1" vfront ="3" vrnd ="+"/>
-	<vowel ph="@" vlng ="s" vheight ="2" vfront ="2" vrnd ="-"/>
 	<!-- Nasal vowels-->
 	<vowel ph="a~" vlng ="l" vheight ="3" vfront ="2" vrnd ="−"/>
 	<vowel ph="e~" vlng ="l" vheight ="2" vfront ="2" vrnd ="−"/>
